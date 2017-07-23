@@ -1,2 +1,2 @@
 # generator
-Genera la clase dao, procedure y clases de negocio
+Genera la clase dao, procedure (sql server) y clases de negocio
