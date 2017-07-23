@@ -124,3 +124,12 @@ F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DLL_MAPEO_TABLA\bin\Debug\DataAcce
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DLL_MAPEO_TABLA\obj\Debug\DLL_MAPEO.csprojResolveAssemblyReference.cache
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DLL_MAPEO_TABLA\obj\Debug\DLL_MAPEO.dll
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DLL_MAPEO_TABLA\obj\Debug\DLL_MAPEO.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_TABLA\bin\Debug\DLL_MAPEO.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_TABLA\bin\Debug\DLL_MAPEO.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_TABLA\bin\Debug\DLL_MAPEO_DAO.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_TABLA\bin\Debug\DataAccess.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_TABLA\bin\Debug\DLL_MAPEO_DAO.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_TABLA\bin\Debug\DataAccess.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_TABLA\obj\Debug\DLL_MAPEO.csprojResolveAssemblyReference.cache
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_TABLA\obj\Debug\DLL_MAPEO.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_TABLA\obj\Debug\DLL_MAPEO.pdb

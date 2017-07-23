@@ -78,3 +78,8 @@ F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DataAccess\bin\Debug\DataAccess.pd
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DataAccess\obj\Debug\DataAccess.dll
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DataAccess\obj\Debug\DataAccess.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DataAccess\bin\Debug\DataAccess.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DataAccess\bin\Debug\DataAccess.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DataAccess\obj\Debug\DataAccess.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DataAccess\obj\Debug\DataAccess.pdb

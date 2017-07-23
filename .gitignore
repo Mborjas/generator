@@ -5,3 +5,6 @@ DLL_MAPEO_DAO/obj
 WindowsFormsApplication1/bin
 WindowsFormsApplication1/obj
 
+
+**/bin/**
+**/obj/**

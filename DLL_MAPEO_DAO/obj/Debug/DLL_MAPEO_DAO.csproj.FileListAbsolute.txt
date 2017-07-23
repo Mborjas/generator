@@ -61,3 +61,10 @@ F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DLL_MAPEO_DAO\bin\Debug\DataAccess
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DLL_MAPEO_DAO\obj\Debug\DLL_MAPEO_DAO.csprojResolveAssemblyReference.cache
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DLL_MAPEO_DAO\obj\Debug\DLL_MAPEO_DAO.dll
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DLL_MAPEO_DAO\obj\Debug\DLL_MAPEO_DAO.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_DAO\bin\Debug\DLL_MAPEO_DAO.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_DAO\bin\Debug\DLL_MAPEO_DAO.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_DAO\bin\Debug\DataAccess.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_DAO\bin\Debug\DataAccess.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_DAO\obj\Debug\DLL_MAPEO_DAO.csprojResolveAssemblyReference.cache
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_DAO\obj\Debug\DLL_MAPEO_DAO.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\DLL_MAPEO_DAO\obj\Debug\DLL_MAPEO_DAO.pdb
