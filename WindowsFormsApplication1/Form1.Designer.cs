@@ -55,40 +55,45 @@
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.cmbTipoBDDATOS = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // cmbTablasBD
             // 
             this.cmbTablasBD.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbTablasBD.FormattingEnabled = true;
-            this.cmbTablasBD.Location = new System.Drawing.Point(379, 12);
+            this.cmbTablasBD.Location = new System.Drawing.Point(568, 18);
+            this.cmbTablasBD.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cmbTablasBD.Name = "cmbTablasBD";
-            this.cmbTablasBD.Size = new System.Drawing.Size(213, 21);
+            this.cmbTablasBD.Size = new System.Drawing.Size(318, 28);
             this.cmbTablasBD.TabIndex = 0;
             // 
             // cmbTablasBD2
             // 
             this.cmbTablasBD2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbTablasBD2.FormattingEnabled = true;
-            this.cmbTablasBD2.Location = new System.Drawing.Point(379, 50);
+            this.cmbTablasBD2.Location = new System.Drawing.Point(568, 77);
+            this.cmbTablasBD2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cmbTablasBD2.Name = "cmbTablasBD2";
-            this.cmbTablasBD2.Size = new System.Drawing.Size(213, 21);
+            this.cmbTablasBD2.Size = new System.Drawing.Size(318, 28);
             this.cmbTablasBD2.TabIndex = 1;
             // 
             // Label2
             // 
             this.Label2.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.Label2.Location = new System.Drawing.Point(325, 15);
+            this.Label2.Location = new System.Drawing.Point(488, 23);
+            this.Label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Label2.Name = "Label2";
-            this.Label2.Size = new System.Drawing.Size(48, 23);
+            this.Label2.Size = new System.Drawing.Size(72, 35);
             this.Label2.TabIndex = 4;
             this.Label2.Text = "Tabla";
             // 
             // treeView1
             // 
-            this.treeView1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)));
-            this.treeView1.Location = new System.Drawing.Point(12, 84);
+            this.treeView1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
+            this.treeView1.Location = new System.Drawing.Point(18, 129);
+            this.treeView1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.treeView1.Name = "treeView1";
             treeNode1.Name = "MantenimientoProcedure";
             treeNode1.Text = "MantenimientoProcedure";
@@ -119,18 +124,19 @@
             treeNode4,
             treeNode8,
             treeNode12});
-            this.treeView1.Size = new System.Drawing.Size(181, 341);
+            this.treeView1.Size = new System.Drawing.Size(270, 522);
             this.treeView1.TabIndex = 6;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
-            this.richTextBox1.Location = new System.Drawing.Point(199, 84);
+            this.richTextBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.richTextBox1.Location = new System.Drawing.Point(298, 129);
+            this.richTextBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(454, 341);
+            this.richTextBox1.Size = new System.Drawing.Size(679, 522);
             this.richTextBox1.TabIndex = 8;
             this.richTextBox1.Text = "";
             // 
@@ -141,25 +147,38 @@
             this.cmbTipoBDDATOS.Items.AddRange(new object[] {
             "(Seleccione)",
             "SQL SERVER"});
-            this.cmbTipoBDDATOS.Location = new System.Drawing.Point(116, 30);
+            this.cmbTipoBDDATOS.Location = new System.Drawing.Point(174, 46);
+            this.cmbTipoBDDATOS.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cmbTipoBDDATOS.Name = "cmbTipoBDDATOS";
-            this.cmbTipoBDDATOS.Size = new System.Drawing.Size(121, 21);
+            this.cmbTipoBDDATOS.Size = new System.Drawing.Size(180, 28);
             this.cmbTipoBDDATOS.TabIndex = 9;
             // 
             // label1
             // 
             this.label1.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label1.Location = new System.Drawing.Point(25, 30);
+            this.label1.Location = new System.Drawing.Point(38, 46);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(85, 23);
+            this.label1.Size = new System.Drawing.Size(128, 35);
             this.label1.TabIndex = 10;
             this.label1.Text = "Base de datos";
             // 
+            // label3
+            // 
+            this.label3.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label3.Location = new System.Drawing.Point(479, 70);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(72, 35);
+            this.label3.TabIndex = 11;
+            this.label3.Text = "Tabla 2";
+            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(655, 425);
+            this.ClientSize = new System.Drawing.Size(982, 654);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.cmbTipoBDDATOS);
             this.Controls.Add(this.richTextBox1);
@@ -167,6 +186,7 @@
             this.Controls.Add(this.Label2);
             this.Controls.Add(this.cmbTablasBD2);
             this.Controls.Add(this.cmbTablasBD);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
@@ -184,6 +204,7 @@
         private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.ComboBox cmbTipoBDDATOS;
         internal System.Windows.Forms.Label label1;
+        internal System.Windows.Forms.Label label3;
     }
 }
 

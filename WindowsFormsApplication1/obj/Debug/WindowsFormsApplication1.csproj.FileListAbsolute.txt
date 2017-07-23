@@ -194,3 +194,18 @@ F:\proyectos Max\GeneradorCodigo v9 - vs 2012\WindowsFormsApplication1\obj\Debug
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 F:\proyectos Max\GeneradorCodigo v9 - vs 2012\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\bin\Debug\AppForms.exe.config
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\bin\Debug\AppForms.exe
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\bin\Debug\AppForms.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\bin\Debug\DLL_MAPEO.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\bin\Debug\DLL_MAPEO_DAO.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\bin\Debug\DataAccess.dll
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\bin\Debug\DLL_MAPEO.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\bin\Debug\DLL_MAPEO_DAO.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\bin\Debug\DataAccess.pdb
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\obj\Debug\AppForms.exe
+K:\Proyecto2016Max\visualStudio\Mborjas\GeneradorCodigo v9 - vs 2015\WindowsFormsApplication1\obj\Debug\AppForms.pdb
