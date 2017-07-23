@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Solution1">
+</Property><Property Name="Solution File" Value="F:\proyectos Max\GeneradorCodigo v4\GeneradorCodigo v4\Solution1\Solution1.sln">
+</Property><Property Name="Date" Value="sábado, 25 de febrero de 2012">
+</Property><Property Name="Time" Value="07:56 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="DataAccess" Source="..\DataAccess\DataAccess.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataAccess" Source="..\DataAccess\DataAccess.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DLL_MAPEO_DAO" Source="..\DLL_MAPEO_DAO\DLL_MAPEO_DAO.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DLL_MAPEO_DAO" Source="..\DLL_MAPEO_DAO\DLL_MAPEO_DAO.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DLL_MAPEO" Source="..\DLL_MAPEO_TABLA\DLL_MAPEO.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DLL_MAPEO" Source="..\DLL_MAPEO_TABLA\DLL_MAPEO.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="..\WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplication1" Source="..\WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Solution1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Solution1.sln" Description="Converted">
+</Event></UpgradeLog>

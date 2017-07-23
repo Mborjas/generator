@@ -1,0 +1,80 @@
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.6.2 - v.2011 PCGE net 3.0 - Beta Asientos\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.6.2 - v.2011 PCGE net 3.0 - Beta Asientos\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.6.2 - v.2011 PCGE net 3.0 - Beta Asientos\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.6.2 - v.2011 PCGE net 3.0 - Beta Asientos\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.6.2 - v.2011 PCGE net 3.0 - Beta Asientos\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.0 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.0 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.0 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.0 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.0 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.1 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.1 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.1 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.1 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.1 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.2 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.2 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.2 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.2 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\BohlCompras_Ver 3.7.2 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 4.0.0 - v.2011 net 3.0 BETA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 4.0.0 - v.2011 net 3.0 BETA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 4.0.0 - v.2011 net 3.0 BETA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 4.0.0 - v.2011 net 3.0 BETA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 4.0.0 - v.2011 net 3.0 BETA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 5.0.0 - v.2011 net 3.0 BETA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 5.0.0 - v.2011 net 3.0 BETA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 5.0.0 - v.2011 net 3.0 BETA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 5.0.0 - v.2011 net 3.0 BETA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 5.0.0 - v.2011 net 3.0 BETA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 5.0.0 - v.2011 net 3.0  DUA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 5.0.0 - v.2011 net 3.0  DUA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 5.0.0 - v.2011 net 3.0  DUA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 5.0.0 - v.2011 net 3.0  DUA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 5.0.0 - v.2011 net 3.0  DUA\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 6.0.0 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 6.0.0 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 6.0.0 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 6.0.0 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mborjas\Desktop\Escritorio\BohlCompras_Ver 6.0.0 - v.2011 net 3.0\bohlcompras_ORIG - ModiReportes\BohCompras\wCompras _310308\DataAccess\obj\Debug\DataAccess.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DataAccess\bin\Debug\DataAccess.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DataAccess\bin\Debug\DataAccess.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DataAccess\obj\Debug\DataAccess.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DataAccess\obj\Debug\DataAccess.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen v2\DataAccess\bin\Debug\DataAccess.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen v2\DataAccess\bin\Debug\DataAccess.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen v2\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen v2\DataAccess\obj\Debug\DataAccess.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen v2\DataAccess\obj\Debug\DataAccess.pdb
+F:\proyectos Max\waCodGen v2\waCodGen v2\DataAccess\bin\Debug\DataAccess.dll
+F:\proyectos Max\waCodGen v2\waCodGen v2\DataAccess\bin\Debug\DataAccess.pdb
+F:\proyectos Max\waCodGen v2\waCodGen v2\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\proyectos Max\waCodGen v2\waCodGen v2\DataAccess\obj\Debug\DataAccess.dll
+F:\proyectos Max\waCodGen v2\waCodGen v2\DataAccess\obj\Debug\DataAccess.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen v3 _ultima version Home\waCodGen v3\DataAccess\bin\Debug\DataAccess.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen v3 _ultima version Home\waCodGen v3\DataAccess\bin\Debug\DataAccess.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen v3 _ultima version Home\waCodGen v3\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen v3 _ultima version Home\waCodGen v3\DataAccess\obj\Debug\DataAccess.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen v3 _ultima version Home\waCodGen v3\DataAccess\obj\Debug\DataAccess.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\GeneradorCodigo v4\DataAccess\bin\Debug\DataAccess.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\GeneradorCodigo v4\DataAccess\bin\Debug\DataAccess.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\GeneradorCodigo v4\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\GeneradorCodigo v4\DataAccess\obj\Debug\DataAccess.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\GeneradorCodigo v4\DataAccess\obj\Debug\DataAccess.pdb
+F:\proyectos Max\GeneradorCodigo v4\GeneradorCodigo v4\DataAccess\bin\Debug\DataAccess.dll
+F:\proyectos Max\GeneradorCodigo v4\GeneradorCodigo v4\DataAccess\bin\Debug\DataAccess.pdb
+F:\proyectos Max\GeneradorCodigo v4\GeneradorCodigo v4\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\proyectos Max\GeneradorCodigo v4\GeneradorCodigo v4\DataAccess\obj\Debug\DataAccess.dll
+F:\proyectos Max\GeneradorCodigo v4\GeneradorCodigo v4\DataAccess\obj\Debug\DataAccess.pdb
+G:\proyectos Max\GeneradorCodigo v8\DataAccess\bin\Debug\DataAccess.dll
+G:\proyectos Max\GeneradorCodigo v8\DataAccess\bin\Debug\DataAccess.pdb
+G:\proyectos Max\GeneradorCodigo v8\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+G:\proyectos Max\GeneradorCodigo v8\DataAccess\obj\Debug\DataAccess.dll
+G:\proyectos Max\GeneradorCodigo v8\DataAccess\obj\Debug\DataAccess.pdb
+F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DataAccess\bin\Debug\DataAccess.dll
+F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DataAccess\bin\Debug\DataAccess.pdb
+F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DataAccess\obj\Debug\DataAccess.dll
+F:\proyectos Max\GeneradorCodigo v9 - vs 2012\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{A7FC4034-E712-4889-83EE-7D68C0DF93C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL_MAPEO_DAO", "..\DLL_MAPEO_DAO\DLL_MAPEO_DAO.csproj", "{4C588A0F-8607-43A2-BD7C-BE044F8D0390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL_MAPEO", "..\DLL_MAPEO_TABLA\DLL_MAPEO.csproj", "{7846D9D1-F2B2-482A-94BF-4FDFC386DA0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "..\WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{5C768FAB-189E-474D-A92A-00500545311D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7FC4034-E712-4889-83EE-7D68C0DF93C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FC4034-E712-4889-83EE-7D68C0DF93C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FC4034-E712-4889-83EE-7D68C0DF93C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FC4034-E712-4889-83EE-7D68C0DF93C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C588A0F-8607-43A2-BD7C-BE044F8D0390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C588A0F-8607-43A2-BD7C-BE044F8D0390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C588A0F-8607-43A2-BD7C-BE044F8D0390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C588A0F-8607-43A2-BD7C-BE044F8D0390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7846D9D1-F2B2-482A-94BF-4FDFC386DA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7846D9D1-F2B2-482A-94BF-4FDFC386DA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7846D9D1-F2B2-482A-94BF-4FDFC386DA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7846D9D1-F2B2-482A-94BF-4FDFC386DA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C768FAB-189E-474D-A92A-00500545311D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C768FAB-189E-474D-A92A-00500545311D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C768FAB-189E-474D-A92A-00500545311D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C768FAB-189E-474D-A92A-00500545311D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

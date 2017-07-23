@@ -1,0 +1,9 @@
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DLL_MAPEO_TABLA\bin\Debug\DLL_MAPEO_TABLA.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DLL_MAPEO_TABLA\bin\Debug\DLL_MAPEO_TABLA.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DLL_MAPEO_TABLA\bin\Debug\DLL_MAPEO_DAO.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DLL_MAPEO_TABLA\bin\Debug\DLL_MAPEO_DAO.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DLL_MAPEO_TABLA\obj\Debug\ResolveAssemblyReference.cache
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DLL_MAPEO_TABLA\obj\Debug\DLL_MAPEO_TABLA.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DLL_MAPEO_TABLA\obj\Debug\DLL_MAPEO_TABLA.pdb
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DLL_MAPEO_TABLA\bin\Debug\DataAccess.dll
+D:\DISCO C\borjas_castillo_max\generador_codigo_ultima_version_20_06_2007\waCodGen\DLL_MAPEO_TABLA\bin\Debug\DataAccess.pdb
