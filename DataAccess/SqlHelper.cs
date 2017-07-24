@@ -42,7 +42,7 @@ public sealed class SqlHelper
         SqlConnection cnx = null;
         try
         {
-
+            //Prueba de cambio
             String MyConexion = "Server=.\\SQLEXPRESS;Database=CRMFacilitoInicial;Trusted_Connection=True";
             //String MyConexion = "Server=mborjasc\\SQLEXPRESS;Database=BDVENTAS2011;Trusted_Connection=True";
             cnx = new SqlConnection(MyConexion);
